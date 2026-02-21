@@ -1,0 +1,28 @@
+{
+  "discord": "online",
+  "meta": "online",
+  "linkedin": "online",
+  "xcloud": "collegato",
+  "tickets": [
+    {
+      "data": "2026-02-21",
+      "titolo": "Onboarding nuovo cliente",
+      "stato": "aperto"
+    },
+    {
+      "data": "2026-02-20",
+      "titolo": "Revisione copy campagna Q2",
+      "stato": "in corso"
+    }
+  ],
+  "reports": [
+    {
+      "data": "2026-02-19",
+      "titolo": "Report campagna Awareness Gennaio"
+    },
+    {
+      "data": "2026-02-15",
+      "titolo": "Report lancio prodotto X"
+    }
+  ]
+}
