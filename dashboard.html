@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AURA.Z — Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body data-page="dashboard">
+
+<header class="topbar">
+  <div class="logo">AURA.Z</div>
+  <nav class="nav">
+    <a href="index.html">Home</a>
+    <a href="organismo.html">Organismo</a>
+    <a href="dashboard.html" class="active">Dashboard</a>
+    <a href="campagne.html">Campagne</a>
+    <a href="https://whatsapp.com/channel/0029Vb7akVkKAwEp2NjB0U0x" class="nav-whatsapp" target="_blank">WhatsApp Channel</a>
+  </nav>
+</header>
+
+<main>
+  <section class="section">
+    <h1>Dashboard AURA.Z</h1>
+    <p>Vista operativa dell’organismo: stato, log, connessioni, attività recenti.</p>
+  </section>
+
+  <section class="section section-alt">
+    <h2>Stato servizi</h2>
+    <div class="cards">
+      <article class="card small">
+        <h3>Discord</h3>
+        <p id="dash-discord">Caricamento…</p>
+      </article>
+      <article class="card small">
+        <h3>Meta (Facebook/WhatsApp)</h3>
+        <p id="dash-meta">Caricamento…</p>
+      </article>
+      <article class="card small">
+        <h3>LinkedIn</h3>
+        <p id="dash-linkedin">Caricamento…</p>
+      </article>
+      <article class="card small">
+        <h3>xCLOUD</h3>
+        <p id="dash-xcloud">Caricamento…</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Attività recenti</h2>
+    <div class="cards">
+      <article class="card">
+        <h3>Ultime campagne</h3>
+        <ul id="dash-last-campaigns"></ul>
+      </article>
+      <article class="card">
+        <h3>Ultimi ticket</h3>
+        <ul id="dash-last-tickets"></ul>
+      </article>
+      <article class="card">
+        <h3>Ultimi report</h3>
+        <ul id="dash-last-reports"></ul>
+      </article>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>AURA.Z — Dashboard operativa. Powered by xCLOUD-by-zdos.</p>
+</footer>
+
+</body>
+</html>

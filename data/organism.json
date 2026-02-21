@@ -1,0 +1,17 @@
+{
+  "energia": "alta",
+  "focus": "campagne",
+  "umore": "strategico",
+  "agenti": {
+    "zCORE": { "ruolo": "Identità", "stato": "vigile", "focus": "coerenza" },
+    "zGEN": { "ruolo": "Creatività", "stato": "attivo", "focus": "concept" },
+    "zFORMA": { "ruolo": "Forma", "stato": "presente", "focus": "layout" },
+    "zFLOW": { "ruolo": "Media", "stato": "in ascolto", "focus": "performance" },
+    "zORACOLO": { "ruolo": "Dati", "stato": "calcolo", "focus": "insight" },
+    "zVOCE": { "ruolo": "Relazione", "stato": "presente", "focus": "community" }
+  },
+  "rituali": [
+    { "nome": "allineamento", "descrizione": "Riallinea focus e tono del sistema." },
+    { "nome": "lancio", "descrizione": "Prepara l’organismo a una nuova campagna." }
+  ]
+}

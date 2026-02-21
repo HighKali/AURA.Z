@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AURA.Z — Organismo</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body data-page="organismo">
+
+<header class="topbar">
+  <div class="logo">AURA.Z</div>
+  <nav class="nav">
+    <a href="index.html">Home</a>
+    <a href="organismo.html" class="active">Organismo</a>
+    <a href="dashboard.html">Dashboard</a>
+    <a href="campagne.html">Campagne</a>
+    <a href="https://whatsapp.com/channel/0029Vb7akVkKAwEp2NjB0U0x" class="nav-whatsapp" target="_blank">WhatsApp Channel</a>
+  </nav>
+</header>
+
+<main>
+  <section class="section">
+    <h1>Organismo AURA.Z</h1>
+    <p>
+      AURA.Z è composto da agenti, stati e rituali. Questa pagina mostra la struttura vivente dell’organismo.
+    </p>
+  </section>
+
+  <section class="section section-alt">
+    <h2>Stato generale</h2>
+    <div class="cards">
+      <article class="card small">
+        <h3>Energia</h3>
+        <p id="org-energia">Caricamento…</p>
+      </article>
+      <article class="card small">
+        <h3>Focus</h3>
+        <p id="org-focus">Caricamento…</p>
+      </article>
+      <article class="card small">
+        <h3>Umore</h3>
+        <p id="org-umore">Caricamento…</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Agenti</h2>
+    <div class="cards" id="org-agents">
+      <!-- Popolato da script.js leggendo data/organism.json -->
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <h2>Rituali</h2>
+    <p>
+      Alcuni rituali possono essere attivati da xCLOUD o da comandi interni. Qui vedi la lista dei rituali disponibili.
+    </p>
+    <ul id="org-rituals">
+      <!-- Popolato da script.js -->
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>AURA.Z — Organismo vivente. Powered by xCLOUD-by-zdos.</p>
+</footer>
+
+</body>
+</html>
