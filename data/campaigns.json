@@ -3,14 +3,22 @@
     "titolo": "Lancio AURA.Z-xCLOUD",
     "data": "2026-02-21",
     "stato": "completata",
-    "piattaforme": ["Discord", "Facebook", "LinkedIn", "WhatsApp"],
+    "piattaforme": [
+      "Discord",
+      "Facebook",
+      "LinkedIn",
+      "WhatsApp"
+    ],
     "messaggio": "AURA.Z — attivazione ufficiale. Strategia che evolve."
   },
   {
     "titolo": "Campagna Awareness Q1",
     "data": "2026-02-10",
     "stato": "completata",
-    "piattaforme": ["LinkedIn", "Facebook"],
+    "piattaforme": [
+      "LinkedIn",
+      "Facebook"
+    ],
     "messaggio": "Costruiamo visibilità con precisione."
   }
 ]
