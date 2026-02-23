@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 AURA.Z — Modular Enterprise Operating Environment 🌐⚡
@@ -153,3 +154,85 @@ MIT License.
 
 HighKali  
 Architetto di sistemi modulari e creatore dell’ecosistema AURA.Z.
+=======
+# xCLOUD-by-zdos ☁️⚡
+
+Modulo cloud statico dell’ecosistema **AURA.Z**.
+
+[![ZDOS Badge](https://img.shields.io/badge/ZDOS-ENTERPRISE-00FF00?style=for-the-badge&labelColor=000000)]()
+
+## Funzioni
+- Branding
+- Servizi
+- Contenuti statici
+- Materiali visivi
+
+## Integrazione
+```bash
+git submodule add https://github.com/HighKali/xCLOUD-by-zdos.git xCLOUD-by-zdos
+
+---
+
+## 2. AURA.Z Core — README Coordinato  
+*(già generato sopra)*
+
+---
+
+## 3. z-web — README Coordinato
+
+```markdown
+# ZDOS Web Portal 🌐
+
+Portale web ufficiale dell’ecosistema ZDOS.
+
+## Funzioni
+- Accesso ai moduli
+- Navigazione ecosistema
+- Interfaccia pubblica
+
+# GIGA-XZDOS Miniera 🏗️📦
+
+Archivio dati e miniera informativa dell’ecosistema.
+
+## Funzioni
+- Storage
+- Logging
+- Dataset
+
+# xAGENT-zdos 🤖⚡
+
+Agente operativo modulare dell’ecosistema AURA.Z.
+
+## Funzioni
+- Automazioni
+- Task operativi
+- Comunicazione tra moduli
+
+# CloudX × ZDOS ☁️✨
+
+Interfaccia cloud generativa dell’ecosistema.
+
+## Funzioni
+- UI generativa
+- Componenti dinamici
+
+# Z-GENESIS-OS 🌌
+
+Sistema operativo mitico dell’ecosistema ZDOS.
+
+## Funzioni
+- Lore
+- Architettura
+- Manifesto
+
+# GhostTrack v2 👻📡
+
+Sistema di tracciamento e logging operativo.
+
+## Funzioni
+- Log
+- Monitoraggio
+- Automazioni
+
+
+>>>>>>> b0fbc39 (Docs: added README, CHANGELOG, CONTRIBUTING, SECURITY and updated documentation)
